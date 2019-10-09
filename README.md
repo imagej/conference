@@ -1,3 +1,3 @@
 Supporting materials for ImageJ conferences
 
-See: http://conference.imagej.net/
+See: https://conference.imagej.net/
